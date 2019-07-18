@@ -1,0 +1,12 @@
+{
+  "name": "restful-api-example",
+  "version": "1.0.0",
+  "description": "Today we are going to build a full-stack API from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
